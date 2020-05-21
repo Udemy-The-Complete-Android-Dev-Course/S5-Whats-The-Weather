@@ -1,0 +1,2 @@
+rootProject.name='S5 Whats The Weather'
+include ':app'
